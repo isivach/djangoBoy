@@ -1,1 +1,1 @@
-# djangoBoy
+# first course project
